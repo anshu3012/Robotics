@@ -1,76 +1,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://anshu3012.github.io/Robotics/RO/control/01-robot-models/RO-001-pose-and-differential-drive</loc>
-    <lastmod>2026-10-12T05:13:17.752Z</lastmod>
+    <lastmod>2026-10-12T05:24:50.174Z</lastmod>
   </url><url>
     <loc>https://anshu3012.github.io/Robotics/RO/localization/02-bayes-filters/RO-007-why-a-robot-is-never-sure</loc>
-    <lastmod>2026-10-12T05:13:17.752Z</lastmod>
+    <lastmod>2026-10-12T05:24:50.174Z</lastmod>
   </url><url>
     <loc>https://anshu3012.github.io/Robotics/RO/localization/02-bayes-filters/RO-008-probabilistic-motion-models</loc>
-    <lastmod>2026-10-12T05:13:17.752Z</lastmod>
+    <lastmod>2026-10-12T05:24:50.174Z</lastmod>
   </url><url>
     <loc>https://anshu3012.github.io/Robotics/RO/localization/02-bayes-filters/RO-009-maps-and-landmarks</loc>
-    <lastmod>2026-10-12T05:13:17.752Z</lastmod>
+    <lastmod>2026-10-12T05:24:50.174Z</lastmod>
   </url><url>
     <loc>https://anshu3012.github.io/Robotics/RO/localization/02-bayes-filters/RO-010-range-sensors-beam-model</loc>
-    <lastmod>2026-10-12T05:13:17.752Z</lastmod>
+    <lastmod>2026-10-12T05:24:50.174Z</lastmod>
   </url><url>
     <loc>https://anshu3012.github.io/Robotics/RO/localization/02-bayes-filters/RO-011-likelihood-fields-and-scan-matching</loc>
-    <lastmod>2026-10-12T05:13:17.752Z</lastmod>
+    <lastmod>2026-10-12T05:24:50.174Z</lastmod>
   </url><url>
     <loc>https://anshu3012.github.io/Robotics/RO/localization/02-bayes-filters/RO-012-landmark-measurement-model</loc>
-    <lastmod>2026-10-12T05:13:17.752Z</lastmod>
+    <lastmod>2026-10-12T05:24:50.174Z</lastmod>
   </url><url>
     <loc>https://anshu3012.github.io/Robotics/RO/localization/02-bayes-filters/RO-013-belief</loc>
-    <lastmod>2026-10-12T05:13:17.752Z</lastmod>
+    <lastmod>2026-10-12T05:24:50.174Z</lastmod>
   </url><url>
     <loc>https://anshu3012.github.io/Robotics/RO/localization/02-bayes-filters/RO-014-bayes-filter</loc>
-    <lastmod>2026-10-12T05:13:17.752Z</lastmod>
+    <lastmod>2026-10-12T05:24:50.174Z</lastmod>
   </url><url>
     <loc>https://anshu3012.github.io/Robotics/RO/localization/02-bayes-filters/RO-015-grid-filters</loc>
-    <lastmod>2026-10-12T05:13:17.752Z</lastmod>
+    <lastmod>2026-10-12T05:24:50.174Z</lastmod>
   </url><url>
     <loc>https://anshu3012.github.io/Robotics/RO/localization/02-bayes-filters/RO-016-particle-filter</loc>
-    <lastmod>2026-10-12T05:13:17.752Z</lastmod>
+    <lastmod>2026-10-12T05:24:50.174Z</lastmod>
   </url><url>
     <loc>https://anshu3012.github.io/Robotics/RO/localization/02-bayes-filters/RO-017-kalman-filter</loc>
-    <lastmod>2026-10-12T05:13:17.752Z</lastmod>
+    <lastmod>2026-10-12T05:24:50.174Z</lastmod>
   </url><url>
     <loc>https://anshu3012.github.io/Robotics/RO/localization/02-bayes-filters/RO-018-extended-kalman-filter</loc>
-    <lastmod>2026-10-12T05:13:17.752Z</lastmod>
+    <lastmod>2026-10-12T05:24:50.174Z</lastmod>
   </url><url>
     <loc>https://anshu3012.github.io/Robotics/RO/navigation/04-graph-search-and-configuration-space/RO-032-graphs-and-uninformed-search</loc>
-    <lastmod>2026-10-12T05:13:17.752Z</lastmod>
+    <lastmod>2026-10-12T05:24:50.174Z</lastmod>
   </url><url>
     <loc>https://anshu3012.github.io/Robotics/RO/navigation/04-graph-search-and-configuration-space/RO-033-dijkstra-and-priority-queues</loc>
-    <lastmod>2026-10-12T05:13:17.752Z</lastmod>
+    <lastmod>2026-10-12T05:24:50.174Z</lastmod>
   </url><url>
     <loc>https://anshu3012.github.io/Robotics/RO/navigation/04-graph-search-and-configuration-space/RO-034-a-star-and-heuristics</loc>
-    <lastmod>2026-10-12T05:13:17.752Z</lastmod>
+    <lastmod>2026-10-12T05:24:50.174Z</lastmod>
   </url><url>
     <loc>https://anshu3012.github.io/Robotics/RO/navigation/04-graph-search-and-configuration-space/RO-035-strips-and-pddl</loc>
-    <lastmod>2026-10-12T05:13:17.752Z</lastmod>
+    <lastmod>2026-10-12T05:24:50.174Z</lastmod>
   </url><url>
     <loc>https://anshu3012.github.io/Robotics/RO/navigation/04-graph-search-and-configuration-space/RO-036-configuration-space</loc>
-    <lastmod>2026-10-12T05:13:17.752Z</lastmod>
+    <lastmod>2026-10-12T05:24:50.174Z</lastmod>
   </url><url>
     <loc>https://anshu3012.github.io/Robotics/RO/navigation/04-graph-search-and-configuration-space/RO-037-obstacles-in-c-space</loc>
-    <lastmod>2026-10-12T05:13:17.752Z</lastmod>
+    <lastmod>2026-10-12T05:24:50.174Z</lastmod>
   </url><url>
     <loc>https://anshu3012.github.io/Robotics/RO/navigation/04-graph-search-and-configuration-space/RO-038-collision-checking-and-nearest-neighbours</loc>
-    <lastmod>2026-10-12T05:13:17.752Z</lastmod>
+    <lastmod>2026-10-12T05:24:50.174Z</lastmod>
   </url><url>
     <loc>https://anshu3012.github.io/Robotics/glossary</loc>
-    <lastmod>2026-10-12T05:13:17.752Z</lastmod>
+    <lastmod>2026-10-12T05:24:50.174Z</lastmod>
   </url><url>
     <loc>https://anshu3012.github.io/Robotics/</loc>
-    <lastmod>2026-10-12T05:13:17.752Z</lastmod>
+    <lastmod>2026-10-12T05:24:50.174Z</lastmod>
   </url><url>
     <loc>https://anshu3012.github.io/Robotics/projects/grid-pathfinding</loc>
-    <lastmod>2026-10-12T05:13:17.752Z</lastmod>
+    <lastmod>2026-10-12T05:24:50.174Z</lastmod>
   </url><url>
     <loc>https://anshu3012.github.io/Robotics/projects/real-map-pathfinding</loc>
-    <lastmod>2026-10-12T05:13:17.752Z</lastmod>
+    <lastmod>2026-10-12T05:24:50.174Z</lastmod>
   </url><url>
     <loc>https://anshu3012.github.io/Robotics/projects/sampling-planning</loc>
-    <lastmod>2026-10-12T05:13:17.752Z</lastmod>
+    <lastmod>2026-10-12T05:24:50.174Z</lastmod>
   </url></urlset>
